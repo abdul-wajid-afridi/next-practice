@@ -15,6 +15,7 @@ const ProductScreen = async () => {
 
   return (
     <div>
+      <title>Product title</title>
       {/* <Head>
         <title>Sling Academy</title>
         <meta
